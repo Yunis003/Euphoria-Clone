@@ -1,0 +1,41 @@
+{
+    "men": [
+      { "id": "1", "title": "Shirts", "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGjXo57zEcRvOp0Yl1RkIYh99SbUg_PIfpjQ&s"},
+      { "id": "2", "title": "Printed T-Shirts","img":"https://assets.ajio.com/medias/sys_master/root/20230602/IpOI/6479567d42f9e729d7110c65/-1117Wx1400H-462103471-red-MODEL.jpg"},
+      { "id": "3", "title": "Plain T-Shirt","img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_5J7vJTiXzJpZOdO4_vBCC_I3UVjznDcdW7EejrGqzhLL2wuF6wboudknxax9htjJRRY&usqp=CAU"},
+      { "id": "4", "title": "Polo T-Shirt", "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5C-BsN_tKZcaawjBBjbU-qiPAdUWJAfEL14irViiaDtuQkyk41vhEqz08dV6REMDEKlA&usqp=CAU"},
+      { "id": "5", "title": "Hoodies & Sweetshirt", "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGjXo57zEcRvOp0Yl1RkIYh99SbUg_PIfpjQ&s"},
+      { "id": "6", "title": "Jeans","img":"https://assets.ajio.com/medias/sys_master/root/20230602/IpOI/6479567d42f9e729d7110c65/-1117Wx1400H-462103471-red-MODEL.jpg"},
+      { "id": "7", "title": "Activewear","img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_5J7vJTiXzJpZOdO4_vBCC_I3UVjznDcdW7EejrGqzhLL2wuF6wboudknxax9htjJRRY&usqp=CAU"},
+      { "id": "8", "title": "Boxers", "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5C-BsN_tKZcaawjBBjbU-qiPAdUWJAfEL14irViiaDtuQkyk41vhEqz08dV6REMDEKlA&usqp=CAU"}
+    ],
+    "womenSimple": [
+      { "id": "1", "title": "Hoodies & Sweetshirt", "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqOUz0sJFRuloSAslVEwtU7NN_OEZII82XAw&s"},
+      { "id": "2", "title": "Coats & Parkas", "img":"https://media.boohoo.com/i/boohoo/dzz23074_black_xl/female-black-luxe-faux-fur-sporty-parka-coat/?w=900&qlt=default&fmt.jp2.qlt=70&fmt=auto&sm=fit"},
+      { "id": "3", "title": "Tees & T-Shirts", "img":"https://i5.walmartimages.com/asr/240095bf-5179-4830-a73c-b98e61cc6166.6024fa7dea059d29a62bc65e6bae2300.jpeg?odnHeight=768&odnWidth=768&odnBg=FFFFFF"},
+      { "id": "4", "title": "Boxers","img":"https://target.scene7.com/is/image/Target/GUEST_b84b4f4b-efb1-4b3f-8da2-3b7e3ea7eb99?wid=488&hei=488&fmt=pjpeg"}
+
+    ],
+    "womenMain": [
+      {"id":"1","title":"Block Sweetshirt","brand":"Jhravls Brand","price":123.00,"img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSOp_FG_elNOXfg49oVl0_VMT9oCzT6RQbyQ&s"},
+      {"id":"2","title":"Line Pattern Black","brand":"AS's Brand","price":37.00,"img":"https://i.pinimg.com/736x/41/cd/0c/41cd0c94ccbe42b52f686e47493e49bd.jpg"},
+      {"id":"3","title":"Black Shorts","brand":"MM's Brand","price":38.00,"img":"https://www.sassafras.in/cdn/shop/products/SFSETS9543-1.jpg?v=1666397794"},
+      {"id":"4","title":"Levender Hoodie","brand":"Nike's Brand","price":323.00,"img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZAuuhQfkUVoojHvxY7mUy2_qbQuNn1MB5rQ&s"},
+      {"id":"5","title":"Blue Flower Print","brand":"Mellon's Brand","price":126.00,"img":"https://www.hancockfashion.com/cdn/shop/files/16146NavyS_8.jpg?v=1692775378"},
+      {"id":"6","title":"I Don't Graphic Shirt","brand":"AS's Brand","price":424.00,"img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQagfZBHMyPKQpIUCj0TgpNEt-_qOEag5ukdA&s"},
+      {"id":"7","title":"Flower Pattern Black","brand":"MM's Brand","price":348.00,"img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTa7PF1jSDtJpebHC-QteiUgoQ17JN1WAoDXw&s"},
+      {"id":"8","title":"Yellow Sweethirt","brand":"Nike's Brand","price":334.00,"img":"https://muselot.in/cdn/shop/products/Unisex--Plain--Golden-Yellow--hoodies-Muselot_6d8a2a23-85d5-468b-9c12-31f3a556300b.jpg?v=1638652618"},
+      {"id":"9","title":"Barbareal Gray Sweet","brand":"Jhravls Brand","price":1423.00,"img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTo4PjMl9sYmZCh0p_8P-GUuMNQe4F-IiUq7Q&s"},
+      {"id":"10","title":"White Graphic Crop","brand":"AS's Brand","price":12.00,"img":"https://cdn.shopify.com/s/files/1/0156/6146/products/GfxEmbroideryFreehandCroppedHoodieWhite-B5A3K-WBBM-1121.127.jpg?v=1677494612"},
+      {"id":"11","title":"Leaves Pattern White","brand":"MM's Brand","price":348.00,"img":"https://d3v4qpjzw4kz8j.cloudfront.net/optimise/2022_02_22_SF_TOM_Julia_bella_blue0267.webp?height=880&quality=75&signature=b3c84cf5684592a32ab17bbe09f76d9da3cec53a74bd1f448a5850054b96931c&src0=uploads%2Fproduct_image%2Fphoto%2F62161bdf9a0eb632d2cd89c2%2F2022_02_22_SF_TOM_Julia_bella_blue0267.jpg&version=20221026&watermark=false&width=550"},
+      {"id":"12","title":"Levender Hoodie","brand":"Nike's Brand","price":329.00,"img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdIE9TAb0pGEaxnylHF84WL6HLRxGkryLmHA&s"}
+    ],
+    "womenAnother":[
+      {"id":"1","title":"Block Sweetshirt","brand":"Jhravls Brand","price":123.00,"img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSOp_FG_elNOXfg49oVl0_VMT9oCzT6RQbyQ&s"},
+      {"id":"2","title":"Line Pattern Black","brand":"AS's Brand","price":37.00,"img":"https://i.pinimg.com/736x/41/cd/0c/41cd0c94ccbe42b52f686e47493e49bd.jpg"},
+      {"id":"3","title":"Black Shorts","brand":"MM's Brand","price":38.00,"img":"https://www.sassafras.in/cdn/shop/products/SFSETS9543-1.jpg?v=1666397794"},
+      {"id":"4","title":"Levender Hoodie","brand":"Nike's Brand","price":323.00,"img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZAuuhQfkUVoojHvxY7mUy2_qbQuNn1MB5rQ&s"}
+
+
+    ]
+  }
